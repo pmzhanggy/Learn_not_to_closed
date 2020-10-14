@@ -1,0 +1,56 @@
+# Numerous always-ignore extensions
+*.diff
+*.err
+*.log
+*.orig
+*.rej
+*.swo
+*.swp
+*.vi
+*.zip
+*~
+
+# OS or Editor folders
+._*
+.cache
+.DS_Store
+.sass-cache
+.vscode
+.idea
+.project
+.settings
+.tmproj
+*.esproj
+*.sublime-project
+*.sublime-workspace
+nbproject
+Thumbs.db
+
+# Ignore ruby files
+.ruby-version
+.bundle
+vendor/cache
+vendor/bundle
+*.rb
+
+# Komodo
+.komodotools
+*.komodoproject
+
+# grunt-contrib-sass cache
+.sass-cache
+
+# Codekit
+config.codekit*
+
+# Folders to ignore
+bower_components
+node_modules
+
+# Ignore Project files
+# pages/apps/*/dist
+# sources/libs
+# sources/apps/*/dist
+# release
+# online
+# docs
